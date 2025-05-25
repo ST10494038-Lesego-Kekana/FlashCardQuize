@@ -9,7 +9,7 @@
 
     <Button
         android:id="@+id/following"
-        android:layout_width="143dp"
+        android:layout_width="144dp"
         android:layout_height="65dp"
         android:text="next"
         app:layout_constraintBottom_toBottomOf="parent"
