@@ -60,7 +60,7 @@
 
     <Button
         android:id="@+id/fake"
-        android:layout_width="152dp"
+        android:layout_width="153dp"
         android:layout_height="62dp"
         android:text="false"
         android:textAlignment="center"
