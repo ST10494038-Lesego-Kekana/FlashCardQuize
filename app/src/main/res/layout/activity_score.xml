@@ -10,7 +10,7 @@
     <TextView
         android:id="@+id/Feedback"
         android:layout_width="325dp"
-        android:layout_height="68dp"
+        android:layout_height="69dp"
         android:text="feedback"
         android:textAlignment="center"
         app:layout_constraintBottom_toBottomOf="parent"
