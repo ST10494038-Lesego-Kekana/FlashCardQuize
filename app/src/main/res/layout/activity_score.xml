@@ -35,7 +35,7 @@
     <Button
         android:id="@+id/Exit"
         android:layout_width="122dp"
-        android:layout_height="56dp"
+        android:layout_height="58dp"
         android:text="exit"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
